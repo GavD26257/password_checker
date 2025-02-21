@@ -5,7 +5,7 @@ Included is a driver method that will check both of these criteria and return an
 **This does not guarantee that a password is strong.** This tool is simply for educational use and provides simple, but **not definitive** feedback on the strength of a password.
 
 ### Dependencies ###
-This code uses `pandas`, `scipy`, `hashlib`, and `requests` which can each be installed using `pip`:\ 
+This code uses `pandas`, `scipy`, `hashlib`, and `requests` which can each be installed using `pip`:\
 `
 pip install pandas scipy hashlib requests
 `
